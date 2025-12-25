@@ -30,18 +30,16 @@ This project focuses on **API integration, modern UI design, and navigation usin
 
 ---
 
-## 📸 Screenshots
 
-> Upload screenshots inside `assets/screenshots/` and update paths below.
 
 ### 🏠 Product List Screen
-![Product List](p.PNG)
+![Product List](./p.PNG)
 
 ### 🔍 login
-![login](login.PNG)
+![login](./login.PNG)
 
 ### 📄 Product Detail Screen
-![Product Detail](pd.PNG)
+![Product Detail](./pd.PNG)
 
 ---
 
