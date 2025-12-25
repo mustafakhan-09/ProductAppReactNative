@@ -33,13 +33,13 @@ This project focuses on **API integration, modern UI design, and navigation usin
 
 
 ### 🏠 Product List Screen
-![Product List](./p.PNG)
+![Product List](./productlist.PNG)
 
 ### 🔍 login
 ![login](./login.PNG)
 
 ### 📄 Product Detail Screen
-![Product Detail](./pd.PNG)
+![Product Detail](./productDetails.PNG)
 
 ---
 
